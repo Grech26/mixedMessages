@@ -14,5 +14,11 @@ Project, I build a message generator program. Every time a user runs a program, 
 
 ### Technologies
 
-1. I code in Javascript onlu
-2. Of course I will kepp updating the code to include more technologies
+1. Javascript
+2. Node js
+
+### Running the code
+```
+$ cd ../folder
+$ node main.js
+```
